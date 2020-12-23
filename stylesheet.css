@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+    text-align: center  ;
+}
+p{
+    color: red;
+}
+h1{color: blue;}
+h2{color: blueviolet;}
+h3{color: violet;}
+
+.BorderMargin {
+    margin: 7px;
+    padding: 2px;
+    border: 1px solid black;
+
+}
+.Container {
+    display: flex;
+    background-color: lightgray;
+    height: 240px; 
+}
